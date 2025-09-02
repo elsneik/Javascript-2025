@@ -1,0 +1,26 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+html{
+    font-family: sans-serif;
+    background-color: black;
+    color: white;
+    padding: 1rem;
+}
+p{
+    margin-bottom: 1rem;
+}
+h1 , h2{
+    margin-bottom: 1rem;
+    color: greenyellow;
+}
+
+ol, ul {
+    margin-bottom: 1rem;
+    color: yellow;
+}
+li{
+    margin-bottom: 0.78rem;
+}
