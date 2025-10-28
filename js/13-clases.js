@@ -26,5 +26,5 @@ console.log(`El es ${Persona2.nombre} y tiene ${Persona2.edad}`)
 console.log(`El es ${persona3.nombre} y tiene ${Persona3.edad}`)
 
 persona1.saludar();
-persona1.saludar();
-persona1.saludar();
+persona2.saludar();
+persona3.saludar();
