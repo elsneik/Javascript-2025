@@ -13,7 +13,7 @@
 
 let frutas = ["Manzana", "Sandia", "Piña", "Naranja", "Durazno"];
 let calificaciones = [10, 8, 4, 10];
-let misDatos = ["Steb", "24", true];
+let misDatos = ["Julio", "23", true];
 let coordenadas = [ [1, 2, 3] , [4, 5, 6] , [7, 8, 9] ];
 
 console.log(frutas);
